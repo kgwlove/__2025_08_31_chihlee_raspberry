@@ -2,7 +2,7 @@
 - __2025_08_31_chihlee_raspberry/俄羅斯方塊/
 
 ## 目前的工作區
-- __2025_08_31_chihlee_raspberry//俄羅斯方塊/
+- __2025_08_31_chihlee_raspberry/俄羅斯方塊/
 
 ## 開發環境
 - uv的虛擬環境
